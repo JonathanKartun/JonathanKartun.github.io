@@ -1,6 +1,6 @@
 ## Welcome to Jonathan Kartuns GitHub Page
 
-You can use the see some of my [creations here](https://github.com/JonathanKartun)
+You can see some of my [creations here](https://github.com/JonathanKartun)
 I have another account with some [older stuff here](https://github.com/jon085?tab=repositories)
 
 I have been programming most of my teenage to adult career. It was a hobby of mine and now it's become a profession.
