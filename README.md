@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Jonathan Kartuns GitHub Page
 
-You can use the [editor on GitHub](https://github.com/JonathanKartun/JonathanKartun.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the see some of my [creations here](https://github.com/JonathanKartun)
+I have another account with some [older stuff here](https://github.com/jon085?tab=repositories)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have been programming most of my teenage to adult career. It was a hobby of mine and now it's become a profession.
+A self-taught developer. It started with my fascination for programming. - My first language was Visual Basic 5 / 6.
 
-### Markdown
+Have been part of some great companies. Some have been short lived, but the ones who grow, I seem to grow with and happy to help them grow.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Have worked on numerous technologies such as J2ME, iOS and Android Mobile development, also developed for portable bluetooth printers, point of sales devices.
+I'm most proud of my first work on Virtual Credit Card generation systems as well most of the work I got to do for that company.
+
+Predominantly I've been focused on native iOS development, and a here and there with Android and C# desktop apps as well as Xamarin.
+
+I'm really enjoying Xamarin cross-platform development and would like to carry on developing with this path here on.
+
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Contact me if you would like something developed.
+Would be glad to help build on ideas.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JonathanKartun/JonathanKartun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Contact Me](jonkar042@gmail.com)
