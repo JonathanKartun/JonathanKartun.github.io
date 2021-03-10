@@ -21,4 +21,4 @@ Contact me if you would like something developed.
 Would be glad to help build on ideas.
 ```
 
-[Contact Me](jonkar042@gmail.com)
+[Contact Me](mailto:jonkar042@gmail.com)
